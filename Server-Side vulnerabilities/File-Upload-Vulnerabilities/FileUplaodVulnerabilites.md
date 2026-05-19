@@ -60,7 +60,7 @@ GET /example/exploit.php?command=id HTTP/1.1
 - this actually uses the path to the target file liner and then you call on to it directly
 - i don't think i mentioned this above but the sitemap helped me learn where the file exists as in the location that i need to ping to get the php to execute. 
 
-
+Adding a test here to ensure the changes take place in the repo
 
 
 

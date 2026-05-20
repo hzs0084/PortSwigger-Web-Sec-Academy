@@ -62,6 +62,7 @@ GET /example/exploit.php?command=id HTTP/1.1
 
 
 ## Flawed File Type Validation
+Adding a test here to ensure the changes take place in the repo
 
 In HTML Forms, the browser sends the provided data using a `POST` request with the content type set to `application/x-www-form-urlencoded`. 
 
